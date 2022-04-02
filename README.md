@@ -1,3 +1,8 @@
+# observation-cat-log
+
+Github Pagesで日記がてら猫の記録。
+チュートリアルからクローンして作成した。[->link](https://lab.github.com/githubtraining/github-pages)
+
 # Your GitHub Learning Lab Repository for GitHub Pages
 
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 

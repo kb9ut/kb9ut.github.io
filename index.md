@@ -1,8 +1,3 @@
 ---
-title: "Welcome to my blog"
+title: "observation-cat-log"
 ---
-
-I'm glad you are here. I plan to talk about ...
-
-title: hoge
-- test

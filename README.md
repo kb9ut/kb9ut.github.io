@@ -1,7 +1,8 @@
-# observation-cat-log
+# 日記がてら猫の記録
 
-Github Pagesで日記がてら猫の記録。
-チュートリアルからクローンして作成した。[->link](https://lab.github.com/githubtraining/github-pages)
+Github Pagesで作成。
+
+[チュートリアルからクローンして作成した。](https://lab.github.com/githubtraining/github-pages)
 
 # Your GitHub Learning Lab Repository for GitHub Pages
 

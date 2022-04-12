@@ -1,5 +1,5 @@
 ---
-title: "observation-cat-log"
+title: "日記がてら猫の記録"
 ---
 
 <ul>
